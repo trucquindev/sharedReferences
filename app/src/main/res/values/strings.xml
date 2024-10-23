@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferencesDemo</string>
+    <string name="shared">dataShared</string>
+
+</resources>
